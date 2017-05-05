@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) G41 Express Chipset (ID=0x2e32)
+    Vendor:   Intel
+    VRAM:     447 MB
+    Driver:   8.15.10.1892
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\IT\work\courses\Intro to game development\week 3\project\RollerMadness\Build\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.034265 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 9c4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.169843 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 510.
+Total: 0.436400 ms (FindLiveObjects: 0.042784 ms CreateObjectMapping: 0.024301 ms MarkObjects: 0.359046 ms  DeleteObjects: 0.009583 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.010394 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 510.
+Total: 0.355623 ms (FindLiveObjects: 0.031489 ms CreateObjectMapping: 0.024643 ms MarkObjects: 0.289564 ms  DeleteObjects: 0.009241 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.062078 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 510.
+Total: 0.410729 ms (FindLiveObjects: 0.061267 ms CreateObjectMapping: 0.026012 ms MarkObjects: 0.310785 ms  DeleteObjects: 0.011295 ms)
+
